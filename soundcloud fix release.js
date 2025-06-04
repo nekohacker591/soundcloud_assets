@@ -2,8 +2,8 @@
 // @name         SoundCloud UI Enhancements V5 (Custom Font + No Rounded Corners + Old Header + De-Bolded + Player Icon Fix + Logo Fix)
 // @namespace    http://tampermonkey.net/
 // @version      2.7
-// @description  Cosmetic changes: old style header, square profile pic, reduced spacing, custom font (de-bolded), NO rounded corners. Player: black icons, smaller skips, no button circles.
-// @author       Your AI Buddy & You
+// @description  fix soundcloud
+// @author       nekohacker591
 // @match        https://soundcloud.com/*
 // @grant        GM_addStyle
 // @run-at       document-end
