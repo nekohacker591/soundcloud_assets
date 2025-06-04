@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         SoundCloud UI Enhancements V5 (Custom Font + No Rounded Corners + Old Header + De-Bolded + Player Icon Fix + Logo Fix)
+// @name         SoundCloud UI Fix
 // @namespace    http://tampermonkey.net/
 // @version      2.7
 // @description  fix soundcloud
